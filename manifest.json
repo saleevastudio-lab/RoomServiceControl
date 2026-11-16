@@ -1,0 +1,12 @@
+{
+  "name": "Room Service Control · Kimpton Los Monteros",
+  "short_name": "RS Control",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#0a0d13",
+  "theme_color": "#f8ac00",
+  "orientation": "any",
+  "icons": [
+    { "src": "icons/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
+  ]
+}
